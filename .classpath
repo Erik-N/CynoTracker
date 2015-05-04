@@ -8,32 +8,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/eveapi-5.1.3.jar"/>
-	<classpathentry kind="lib" path="lib/logback-classic-1.0.9.jar"/>
-	<classpathentry kind="lib" path="lib/logback-core-1.0.9.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-android-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-android-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-api-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-api-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-ext-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-ext-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-jcl-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-jcl-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-jdk14-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-jdk14-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-log4j12-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-log4j12-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-migrator-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-nop-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-nop-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-simple-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/slf4j-simple-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/jcl-over-slf4j-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/jcl-over-slf4j-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/jul-to-slf4j-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/jul-to-slf4j-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/log4j-over-slf4j-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/log4j-over-slf4j-1.7.10.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/osgi-over-slf4j-1.7.10-sources.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-1.7.10/osgi-over-slf4j-1.7.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
